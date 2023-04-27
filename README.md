@@ -6,4 +6,4 @@ https://www.kaggle.com/datasets/msambare/fer2013
 
 http://mohammadmahoor.com/affectnet/
 
-and must be pasted in FER2013 and AffectNet folders respectively.
+and must be pasted in fer2013 and affectNet folders respectively.
