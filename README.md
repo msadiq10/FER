@@ -7,3 +7,8 @@ https://www.kaggle.com/datasets/msambare/fer2013
 http://mohammadmahoor.com/affectnet/
 
 and must be pasted in fer2013 and affectNet folders respectively.
+
+
+You can download models from:
+
+https://drive.google.com/drive/folders/1jmnVLTgpXZOYN-tWYOxkrI-VqghfNAX9?usp=sharing
