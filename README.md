@@ -9,7 +9,7 @@ http://mohammadmahoor.com/affectnet/
 and must be pasted in `fer2013` and `affectNet` folders respectively.
 
 
-You can download models from:
+You can download the respective models from:
 
 https://drive.google.com/drive/folders/1jmnVLTgpXZOYN-tWYOxkrI-VqghfNAX9?usp=sharing
 
